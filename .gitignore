@@ -331,4 +331,6 @@ ASALocalRun/
 
 *.DS_Store
 
+data/
+
 out
